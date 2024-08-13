@@ -1,0 +1,16 @@
+{
+  "name": "brushspace",
+  "version": "1.0.0",
+  "description": "a go-to place for learning everything about art",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server --baseDir \"public\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+  "author": "Shanutha Perera",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
